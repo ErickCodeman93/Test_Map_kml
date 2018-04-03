@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>COMERCIAL-CORREDOR.URBANO.COMER.:SERV.LT.L- B.kml</name>
+	<Style id="sn_ylw-pushpin994">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00aa00</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>e500aa00</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin49">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin994</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin1522</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin1522">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00aa00</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>e500aa00</color>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>LORETO, SMZ, VI, NORTE, LT L- B</name>
+		<styleUrl>#msn_ylw-pushpin49</styleUrl>
+		<Polygon>
+			<extrude>1</extrude>
+			<tessellate>1</tessellate>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-111.352802303143,26.01524719384572,9.999999999999998 -111.3527727877743,26.01568176278191,9.999999999999998 -111.3527817889722,26.01570756035249,9.999999999999998 -111.3528088760884,26.01573170251984,9.999999999999998 -111.352846776189,26.01574466409879,9.999999999999998 -111.3530960523221,26.01577458830739,9.999999999999998 -111.3531367459784,26.01577607841236,9.999999999999998 -111.3531602102879,26.01576543772713,9.999999999999998 -111.3531737435743,26.0157498370659,9.999999999999998 -111.3533724767626,26.01560120224379,9.999999999999998 -111.352802303143,26.01524719384572,9.999999999999998 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

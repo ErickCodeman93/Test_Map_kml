@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>UNIFAMILIAR-RESID.TURIST.DENSIDAD.BAJA.Mz1.Lt6.kml</name>
+	<Style id="sn_ylw-pushpin58">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00aa00</color>
+			<width>0.7</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>e500aa00</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin46">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin58</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin22</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin22">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00aa00</color>
+			<width>0.7</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>e500aa00</color>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>Mz 1, Lt 6</name>
+		<styleUrl>#msn_ylw-pushpin46</styleUrl>
+		<Polygon>
+			<extrude>1</extrude>
+			<tessellate>1</tessellate>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-96.11435560847083,15.76441307494111,20 -96.11439134253902,15.76408977682094,20 -96.1139329190248,15.76403310677957,20 -96.11393725199723,15.76417728327312,20 -96.11393891366149,15.76424505371315,20 -96.11394633129945,15.76433585329559,20 -96.11395984293321,15.76445257999172,20 -96.11399352844391,15.76458727653668,20 -96.11401976015817,15.76463102803303,20 -96.11435560847083,15.76441307494111,20 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

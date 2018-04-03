@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>UNIFAMILIAR-HABITAC.UNIFAM.DENSIDAD.BAJA.Mz 10.Lt1.kml</name>
+	<StyleMap id="msn_ylw-pushpin1522">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin85</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin902</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin85">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>e500ffff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin902">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>e500ffff</color>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>Ixtapa, Campo de Golf Residencial, Mz 10, Lt 1</name>
+		<styleUrl>#msn_ylw-pushpin1522</styleUrl>
+		<Polygon>
+			<extrude>1</extrude>
+			<tessellate>1</tessellate>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-101.5898882154008,17.65541249417874,15 -101.5898936830394,17.65542908305129,15 -101.5899186776936,17.65545004479517,15 -101.5899351640518,17.65544844507485,15 -101.5899499129578,17.65544843806684,15 -101.5899600460809,17.6554407050277,15 -101.5899668811942,17.65543262191407,15 -101.5899722513908,17.65541911888814,15 -101.5899760273348,17.65540380734107,15 -101.5900447199833,17.65508796566329,15 -101.5897625582401,17.65513173515576,15 -101.5898882154008,17.65541249417874,15 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>
